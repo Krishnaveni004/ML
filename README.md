@@ -1,3 +1,1 @@
-# machine_learning_projects
-
-Includes all the projects related to machine learning
+Machine Learning projects done as part of courses taken up at Datacamp
